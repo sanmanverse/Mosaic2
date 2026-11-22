@@ -1,4 +1,4 @@
-# Mosaic 3.0 — social article discovery
+# Mosaic 2.0 — social article discovery
 
 Mosaic is a React + Supabase publishing and reading product. Writers define each story's five-category composition; readers set a reading profile and receive recommendations informed by their interests, reading signals, followed writers, topic overlap and recency.
 
